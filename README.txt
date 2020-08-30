@@ -1,0 +1,4 @@
+To do:
+-hide search-ico-cont
+-Script on click for input: reveal search-ico-cont, set border-radius of search-inpt to {5px 0 0 5px} and change flex of search-align to 1
+
