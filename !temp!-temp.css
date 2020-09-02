@@ -2,6 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 
 :root {
---font-main-f: font-family: 'Open Sans', sans-serif;
---font-alt-f: font-family: 'Roboto', sans-serif;
+--font-main-f: 'Open Sans', sans-serif;
+--font-alt-f: 'Roboto', sans-serif;
 }
