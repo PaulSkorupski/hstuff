@@ -34,8 +34,81 @@
     width: 300px;
     height: 450px;
     background: #f3f3f3;
-    outline: #b7b7b7 solid 1px;
-    outline-offset: -4px;
+    box-shadow: 0 0 20px 0px #00000017;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.addon-thumbnail {
+    flex: 3;
+    background: url(svg/placeholder.svg);
+}
+
+.addon-desc {
+    flex: 5;
+    font-family: var(--font-alt-f);
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-align: left;
+    margin: 10px;
+}
+
+.addon-desc-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: var(--font-main-f);
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.addon-more {
+    flex: 1;
+    background: #eeeeee;
+    display: flex;
+}
+
+.more-metainfo {
+    flex: 1;
+    font-family: var(--font-alt-f);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 300;
+}
+
+.meta--cont {
+    display: flex;
+}
+
+.metaicon {
+    margin-left: 10px;
+}
+
+.metafont {
+    margin-left: 5px;
+}
+
+.downloads-icon {
+    background: url(svg/download.svg);
+    width: 18px;
+    height: 18px;
+}
+
+.hearths-cont {
+    display: flex;
+}
+
+.hearths-icon {
+    background: url(svg/heart.svg);
+    width: 16px;
+    height: 16px;
+}
+
+.views-icon {
+    background: url(svg/views.svg);
+    width: 18px;
+    height: 18px;
 }
 
 .browse-bttn-more {
