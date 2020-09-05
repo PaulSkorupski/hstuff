@@ -1,0 +1,13 @@
+1.best add-ons
+2.new add-ons
+
+3.what's possible
+4.questions and anwsers
+
+5.footer
+    3 columns and 1 copyright section -- with logo
+        support section
+	shortcuts to me 
+	blogi i społeczność
+	skróty do kategori
+	
