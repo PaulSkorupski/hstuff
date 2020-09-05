@@ -1,5 +1,5 @@
-1.best add-ons
-2.new add-ons
+1.best add-ons -- 3 (later: sorted, now: static)
+2.new add-ons -- 3 ^^^
 
 3.what's possible
 4.questions and anwsers
@@ -11,3 +11,8 @@
 	blogi i społeczność
 	skróty do kategori
 	
+
+
+topbar -- kategorie
+
+wrapper -- bg color to #f3f3ff
