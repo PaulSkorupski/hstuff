@@ -1,6 +1,7 @@
 .wrapper-container {
-    background: url(svg/wrapper--PLACEHOLDER.svg) #dfdeff;
-    background-size: cover;
+    background: url(svg/wrapper-decor.svg) #f4f4ff no-repeat;
+    background-size: 400px;
+    background-position: 0% 100%;
     height: 600px;
     display: flex;
     justify-content: center;
